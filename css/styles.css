@@ -214,7 +214,7 @@ textarea {
 /***********************************************************************************************/
 body {
   font: 16px/28px "Open Sans", sans-serif;
-  color: #777777;
+  /* color: #777777; */
   font-style: normal;
   font-weight: 400;
   position: relative;
@@ -284,7 +284,6 @@ h6 {
 }
 p {
   font: 16px/28px "Open Sans", sans-serif;
-  color: #777777;
   font-style: normal;
   font-weight: 400;
   letter-spacing: 0.01em;
@@ -614,7 +613,6 @@ ol li {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  color: #888888;
   line-height: 28px;
   letter-spacing: 0.05em;
 }
@@ -2592,7 +2590,7 @@ header.one-page .navbar-nav > li > a span {
   letter-spacing: 0.02em;
   line-height: 32px;
   padding: 40px 0 5px 0;
-  color: #9d9d9d;
+  color: #2c2929;
 }
 .testimony-layout-2 p.testimony-text:before {
   background: #80b53f;
@@ -2633,6 +2631,7 @@ header.one-page .navbar-nav > li > a span {
   height: 70px;
   max-width: 70px;
   margin-top: 5px;
+  margin-bottom: 5px;
   margin-left: 15px;
   float: right;
   border: 1px solid #d1d1d1;
@@ -2640,7 +2639,7 @@ header.one-page .navbar-nav > li > a span {
 }
 .testimony-layout-3 .testimony-info {
   overflow: hidden;
-  padding-top: 18px;
+  padding-top: 0px 18px;
   text-align: right;
 }
 .testimony-layout-3 h4 {
@@ -2680,7 +2679,7 @@ header.one-page .navbar-nav > li > a span {
   letter-spacing: 0.02em;
   line-height: 32px;
   margin: 0px 0 24px 0;
-  color: #9d9d9d;
+  color: #2c2929;
   padding: 12px;
   position: relative;
 }
@@ -4413,7 +4412,7 @@ ul.pagination li:last-child {
   display: inline-block;
 }
 .section-contact-block .contact-info a {
-  color: #777777;
+  color: #000000;
 }
 .section-contact-block .contact-info a:hover {
   color: #80b53f;
