@@ -4370,6 +4370,7 @@ ul.pagination li:last-child {
 .section-contact-block .contact-title {
   font-size: 24px;
   color: #5c5c5c;
+  margin: 10px 0px;
 }
 .section-contact-block p {
   border-bottom: 3px solid #eeeeee;
@@ -4384,7 +4385,6 @@ ul.pagination li:last-child {
   left: 0;
   position: absolute;
   width: 32px;
-  background: #80b53f;
 }
 .section-contact-block .contact-info li {
   padding: 0 0 40px;
